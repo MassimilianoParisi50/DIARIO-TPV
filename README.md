@@ -1,0 +1,3 @@
+INDICAZIONI GENERALI
+Il Diario è uno strumento digitale per documentare in modo strutturato le attività svolte nei tirocini curriculari obbligatori della Laurea abilitante in Medicina Veterinaria. In un unico file lo studente può scegliere il tirocinio da compilare, associare le attività alle competenze del Syllabus, calcolare automaticamente la durata e generare il PDF finale da consegnare ai tutor.
+Il Diario può essere usato sia dal browser del PC sia da dispositivi mobili Android o Apple. I dati vengono salvati nel localStorage del browser: questo significa che restano disponibili riaprendo lo stesso file dallo stesso browser e dallo stesso dispositivo, ma non vengono trasferiti automaticamente su altri dispositivi o altri browser.
